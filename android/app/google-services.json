@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965160798788",
+    "project_id": "bdflutter-cad11",
+    "storage_bucket": "bdflutter-cad11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965160798788:android:4c399577451e06a691ca11",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965160798788-60d8kmo85qbvlomj1bq7fvo0c2r0vd9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi1BW1glhV4VC-P7E78GM-0Jl050Og2kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965160798788-60d8kmo85qbvlomj1bq7fvo0c2r0vd9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
